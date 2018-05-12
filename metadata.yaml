@@ -1,0 +1,34 @@
+_repo: Arrows-of-Freethought_30204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+description: Cover; Arrows of Freethought; Copyright; Contents; Preface; Religion
+  And Progress; A Defence Of Thomas Paine; The Gospel Of Freethought; Freethought
+  In Current Literature; Dean Stanley's Latest; God And The Queen; Cardinal Newman
+  On Infidelity; Sunday Tyranny; Who Are The Blasphemers?; The Birth Of Christ; The
+  Reign Of Christ; The Primate On Modern Infidelity; Baiting A Bishop; aProfessor
+  Flint On Atheism; A Hidden God; General Joshua; Going To Hell; Christmas Eve In
+  Heaven; Professor Blackie On Atheism; Salvationism; A Pious Showman.
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+title: Arrows of Freethought
+url: http://www.gutenberg.org/ebooks/30204
